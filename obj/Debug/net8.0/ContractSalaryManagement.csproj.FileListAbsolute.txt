@@ -1,0 +1,15 @@
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\ContractSalaryManagement\bin\Debug\net8.0\ContractSalaryManagement.exe
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\ContractSalaryManagement\bin\Debug\net8.0\ContractSalaryManagement.deps.json
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\ContractSalaryManagement\bin\Debug\net8.0\ContractSalaryManagement.runtimeconfig.json
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\ContractSalaryManagement\bin\Debug\net8.0\ContractSalaryManagement.dll
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\ContractSalaryManagement\bin\Debug\net8.0\ContractSalaryManagement.pdb
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\ContractSalaryManagement\obj\Debug\net8.0\ContractSalaryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\ContractSalaryManagement\obj\Debug\net8.0\ContractSalaryManagement.AssemblyInfoInputs.cache
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\ContractSalaryManagement\obj\Debug\net8.0\ContractSalaryManagement.AssemblyInfo.cs
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\ContractSalaryManagement\obj\Debug\net8.0\ContractSalaryManagement.csproj.CoreCompileInputs.cache
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\ContractSalaryManagement\obj\Debug\net8.0\ContractSalaryManagement.sourcelink.json
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\ContractSalaryManagement\obj\Debug\net8.0\ContractSalaryManagement.dll
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\ContractSalaryManagement\obj\Debug\net8.0\refint\ContractSalaryManagement.dll
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\ContractSalaryManagement\obj\Debug\net8.0\ContractSalaryManagement.pdb
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\ContractSalaryManagement\obj\Debug\net8.0\ContractSalaryManagement.genruntimeconfig.cache
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\ContractSalaryManagement\obj\Debug\net8.0\ref\ContractSalaryManagement.dll
